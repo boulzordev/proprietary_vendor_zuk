@@ -141,7 +141,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/msm8996-common/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
     vendor/zuk/msm8996-common/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/zuk/msm8996-common/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
-    vendor/zuk/msm8996-common/proprietary/lib/hw/camera.msm8996.so:system/lib/hw/camera.msm8996.so \
+    vendor/zuk/msm8996-common/proprietary/lib/hw/camera.vendor.msm8996.so:system/lib/hw/camera.vendor.msm8996.so \
     vendor/zuk/msm8996-common/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/zuk/msm8996-common/proprietary/lib/libextmedia_jni.so:system/lib/libextmedia_jni.so \
     vendor/zuk/msm8996-common/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
