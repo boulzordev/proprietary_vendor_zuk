@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/etc/camera/s5k2m8sx_chromatix.xml:system/etc/camera/s5k2m8sx_chromatix.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/com.maxim.biosensor.xml:system/etc/permissions/com.maxim.biosensor.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/imscm.xml:system/etc/permissions/imscm.xml \
-    vendor/zuk/z2_row/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf \
     vendor/zuk/z2_row/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/zuk/z2_row/proprietary/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config:system/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config \
     vendor/zuk/z2_row/proprietary/etc/tfa98xx/TFA9890_N1C3_2_1_1.patch:system/etc/tfa98xx/TFA9890_N1C3_2_1_1.patch \
@@ -50,6 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/lib64/libmaximsensor-jni.so:system/lib64/libmaximsensor-jni.so \
     vendor/zuk/z2_row/proprietary/lib64/libmaximsensormgr-jni.so:system/lib64/libmaximsensormgr-jni.so \
     vendor/zuk/z2_row/proprietary/lib64/libsensorservice.so:system/lib64/libsensorservice.so \
+    vendor/zuk/z2_row/proprietary/vendor/etc/sensors/hals.conf:system/vendor/etc/sensors/hals.conf \
     vendor/zuk/z2_row/proprietary/vendor/lib/libactuator_ak7371.so:system/vendor/lib/libactuator_ak7371.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libchromatix_s5k2m8sx_common.so:system/vendor/lib/libchromatix_s5k2m8sx_common.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libchromatix_s5k2m8sx_cpp_hfr_120.so:system/vendor/lib/libchromatix_s5k2m8sx_cpp_hfr_120.so \
