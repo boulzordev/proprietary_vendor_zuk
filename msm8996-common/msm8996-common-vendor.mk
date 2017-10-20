@@ -630,10 +630,11 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     datastatusnotification \
     shutdownlistener \
-    CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
     colorservice \
     ims \
     imssettings \
     qcrilhook
+
+#CNEService
