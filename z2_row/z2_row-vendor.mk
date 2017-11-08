@@ -17,7 +17,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/bin/hvdcp_opti:system/bin/hvdcp_opti \
-    vendor/zuk/z2_row/proprietary/bin/sensorservice:system/bin/sensorservice \
     vendor/zuk/z2_row/proprietary/etc/aanc_tuning_mixer.txt:system/etc/aanc_tuning_mixer.txt \
     vendor/zuk/z2_row/proprietary/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
     vendor/zuk/z2_row/proprietary/etc/acdbdata/MTP/MTP_General_cal.acdb:system/etc/acdbdata/MTP/MTP_General_cal.acdb \
@@ -45,10 +44,8 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/framework/rcsimssettings.jar:system/framework/rcsimssettings.jar \
     vendor/zuk/z2_row/proprietary/lib/libmaximsensor-jni.so:system/lib/libmaximsensor-jni.so \
     vendor/zuk/z2_row/proprietary/lib/libmaximsensormgr-jni.so:system/lib/libmaximsensormgr-jni.so \
-    vendor/zuk/z2_row/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
     vendor/zuk/z2_row/proprietary/lib64/libmaximsensor-jni.so:system/lib64/libmaximsensor-jni.so \
     vendor/zuk/z2_row/proprietary/lib64/libmaximsensormgr-jni.so:system/lib64/libmaximsensormgr-jni.so \
-    vendor/zuk/z2_row/proprietary/lib64/libsensorservice.so:system/lib64/libsensorservice.so \
     vendor/zuk/z2_row/proprietary/vendor/etc/sensors/hals.conf:system/vendor/etc/sensors/hals.conf \
     vendor/zuk/z2_row/proprietary/vendor/lib/libactuator_ak7371.so:system/vendor/lib/libactuator_ak7371.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libchromatix_s5k2m8sx_common.so:system/vendor/lib/libchromatix_s5k2m8sx_common.so \
