@@ -132,7 +132,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/msm8996-common/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/zuk/msm8996-common/proprietary/lib/vendor.display.color@1.0.so:system/lib/vendor.display.color@1.0.so \
     vendor/zuk/msm8996-common/proprietary/lib/vendor.display.postproc@1.0.so:system/lib/vendor.display.postproc@1.0.so \
-    vendor/zuk/msm8996-common/proprietary/lib64/hw/fingerprint.qcom.so:system/lib64/hw/fingerprint.qcom.so \
+    vendor/zuk/msm8996-common/proprietary/lib64/hw/fingerprint.vendor.qcom.so:system/lib64/hw/fingerprint.vendor.qcom.so \
     vendor/zuk/msm8996-common/proprietary/lib64/lib_fpc_tac_shared.so:system/lib64/lib_fpc_tac_shared.so \
     vendor/zuk/msm8996-common/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/zuk/msm8996-common/proprietary/lib64/libtfa98xx.so:system/lib64/libtfa98xx.so \
